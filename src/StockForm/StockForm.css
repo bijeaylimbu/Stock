@@ -1,0 +1,36 @@
+.stock-fill-form{
+
+    border: 2px solid black;
+    width: 60%;
+    margin: 20px;
+    padding:30px;
+}
+
+
+.stockname{
+
+    border: 2px solid black;
+    padding: 3px;
+    margin: 5px;
+}
+
+.form-input{
+
+    border: 2px solid black;
+    padding: 3px;
+    margin: 5px;
+}
+
+
+.form-submit{
+
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 30%;
+}
